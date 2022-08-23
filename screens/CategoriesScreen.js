@@ -1,3 +1,4 @@
+import React from "react";
 import { FlatList } from "react-native";
 import CategoryGridTitle from "../components/CategoryGridTitle";
 import { CATEGORIES } from "../data/dummy-data";

@@ -1,3 +1,4 @@
+import React from "react";
 import { useLayoutEffect } from "react";
 import { FlatList, StyleSheet, View } from "react-native";
 import MealItem from "../components/MealItem";
